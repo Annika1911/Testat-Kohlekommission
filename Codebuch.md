@@ -1,9 +1,9 @@
 <h1>CODEBUCH</h1>																					
-<p>Wert	Kommentar</p>																				
-edgelist:	Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).																				
-from:	Mitglied der Kommission, als IDs angegeben																				
+<p><b>Wert,	Kommentar</b>																				
+<p>edgelist:	Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).</p>																				
+<p>from:	Mitglied der Kommission, als IDs angegeben</p>																				
 to: 	alle Mitgliedschaften der Person, z.B. politische Partei																				
-time:	definiert einen Zeitraum, in dem die Beziehung zwischen den Personen und den Organistationen stattgefunden hat oder beobachtet wurde.																				
+time:	definiert einen Zeitraum, in dem die Beziehung zwischen den Personen und den Organistationen stattgefunden hat oder beobachtet wurde.</p>																			
 
 
 nodelist 

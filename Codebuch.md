@@ -1,6 +1,6 @@
 <h1>CODEBUCH</h1>																					
-<p><b>Wert,	Kommentar</b>																				
-<p>edgelist.</p>																				
+<h2>Wert,	Kommentar</h2>																				
+<p><i>edgelist</i></p>																				
 <p>from:	Mitglied der Kommission, als IDs angegeben</p>																				
 <p>to: 	alle Mitgliedschaften der Person, z.B. politische Partei</p>																				
 <p>time:	definiert einen Zeitraum, in dem die Beziehung zwischen den Personen und den Organistationen stattgefunden hat oder beobachtet wurde.</p>																			

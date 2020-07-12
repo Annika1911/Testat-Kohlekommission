@@ -1,5 +1,5 @@
-CODEBUCH																					
-Wert	Kommentar																				
+<h1>CODEBUCH</h1>																					
+<p>Wert	Kommentar</p>																				
 edgelist:	Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).																				
 from:	Mitglied der Kommission, als IDs angegeben																				
 to: 	alle Mitgliedschaften der Person, z.B. politische Partei																				

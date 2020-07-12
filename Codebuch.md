@@ -3,7 +3,7 @@
 <p><i>edgelist</i></p>																				
 <p>from:	Mitglied der Kommission, als IDs angegeben</p>																				
 <p>to: 	alle Mitgliedschaften der Person, z.B. politische Partei</p>																				
-<p>time:	definiert einen Zeitraum, in dem die Beziehung zwischen den Personen und den Organistationen stattgefunden hat oder beobachtet wurde.</p>																			
+<p>time:	definiert einen Zeitraum, in dem die Beziehung zwischen den Personen und den Organistationen stattgefunden hat (begonnen hat?) oder beobachtet wurde. 1= vor 2000, 2= 2000 bis 2005, 3= 2005 bis 2010, 4= 2010 bis 2018, 5=  2018 bis heute</p>																			
 
 
 <p><i>nodelist </i></p>

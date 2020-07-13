@@ -1,0 +1,90 @@
+id,name,type,sex,age,presentation,party,position,state
+MatP,Matthias Platzeck,1,2,4,1,2,1,11
+RonP,Ronald Pofalla,1,2,4,1,1,1,4
+BarP,Barbara Praetorius,1,1,3,4,7,1,10
+StaT,Stanislaw Tillich,1,2,4,1,1,1,14
+GerH,Gerda Hasselfeldt,1,1,4,1,1,2,2
+SteKam,Steffen Kampeter,1,2,3,2,1,2,4
+SteKap,Stefan Kapferer,1,2,3,2,3,2,13
+DieK,Dieter Kempf,1,2,4,2,7,2,2
+ClaN,Claudia Nemat,1,1,3,2,7,2,4
+KatR,Katherina Reiche,1,1,2,2,1,2,11
+GunR,Gunda Roestel,1,1,3,2,4,2,14
+EriS,Eric Schweitzer,1,2,3,2,3,2,10
+AntG,Antje Grothus,1,1,3,5,7,2,3
+HanW,Hannelore Wodtke,1,1,4,5,1,2,14
+ChrH,Christine Herntier,1,1,4,5,7,2,11
+MicK,Michael Kreuzberg,1,2,4,5,1,2,4
+ReiP,Reiner Priggen,1,2,4,5,4,2,4
+MicV,Michael Vassiliadis,1,2,3,3,2,2,4
+AndS,Andreas Scheidt,1,2,3,3,2,2,4
+SteKo,Stefan Koerzell,1,2,3,3,2,2,6
+MarK,Martin Kaiser,1,2,3,4,7,2,8
+HubW,Hubert Weiger,1,2,5,4,7,2,2
+KaiN,Kai Niebert,1,2,1,4,7,2,13
+JutA,Jutta Allmendinger,1,1,4,6,7,2,1
+ChrS,Christiane Schönefeld,1,1,4,2,7,4,
+FelM,Felix Matthes,1,2,3,6,7,2,10
+HanS,Hans Joachim Schellnhuber,1,2,4,6,7,2,11
+AnnN,Annekathrin Niebuhr,1,1,3,6,7,2,9
+RalW,Ralf Wehrsporn,1,2,2,6,7,2,15
+AndLe,Andreas Lenz,1,2,1,1,1,3,2
+AndLa,Andreas Laemmel,1,2,3,1,1,3,14
+MatM,Matthias Miersch,1,2,2,1,2,3,13
+KK,Kohlekommission,2,NA,NA,NA,NA,NA,NA
+SPD,SPD,2,NA,NA,NA,2,NA,NA
+DB,Deutsche Bahn,2,NA,NA,NA,NA,NA,NA
+CDU,CDU,2,NA,NA,NA,1,NA,NA
+BR,Bundesregierung,2,NA,NA,NA,NA,NA,NA
+BK,Bundeskanzleramt,2,NA,NA,NA,NA,NA,NA
+LRBr,Landesregierung Brandenburg,2,NA,NA,NA,NA,NA,11
+HfTW,Hochschule fuer Technik und Wirtschaft,2,NA,NA,NA,NA,NA,NA
+Think,Thinktank Agora Energiewende,2,NA,NA,NA,NA,NA,NA
+LRSa,Landesregierung Sachsen,2,NA,NA,NA,NA,NA,14
+DRK,Deutsches Rotes Kreuz,2,NA,NA,NA,NA,NA,NA
+BT,Bundestag,2,NA,NA,NA,NA,NA,NA
+BDA,Bundesvereinigung der Deutschen Arbeitgeberverbaende,2,NA,NA,NA,NA,NA,NA
+FDP,FDP,2,NA,NA,NA,3,NA,NA
+BDEW,Bundesverband der Energie- und Wasserwirtschaft,2,NA,NA,NA,NA,NA,NA
+BDI,Bundesverband der deutschen Industrie,2,NA,NA,NA,NA,NA,NA
+TEL,Telekom,2,NA,NA,NA,NA,NA,NA
+McK,McKinsey,2,NA,NA,NA,NA,NA,NA
+VKU,Verband Kommunlare Unternehmen,2,NA,NA,NA,NA,NA,NA
+StaD,Stadtentwaesserung Dresden,2,NA,NA,NA,4,NA,14
+EnBW,EnBW,2,NA,NA,NA,NA,NA,NA
+GRU,Buendnis 90/ Die Gruenen,2,NA,NA,NA,NA,NA,NA
+DIHT,Deutscher Industrie- und Handelskammertag,2,NA,NA,NA,NA,NA,NA
+ALB,Entsorgungskonzern Alba,2,NA,NA,NA,NA,NA,NA
+BUB,Initative Buirer für Buir,2,NA,NA,NA,NA,NA,NA
+GZW,Gruene Zukunft Welzow,2,NA,NA,NA,NA,NA,NA
+StVW,Stadtverordnetenversammlung von Welzow,2,NA,NA,NA,NA,NA,14
+NBBG,Netzwerk Bergbaugeschaedigter,2,NA,NA,NA,NA,NA,NA
+SprT,Spremberger Tuche,2,NA,NA,NA,NA,NA,11
+BSp,Buergermeisteramt Sprember,2,NA,NA,NA,NA,NA,11
+LARE,Landratsamt Rhein-Erft-Kreis,2,NA,NA,NA,NA,NA,4
+BBr,Buergermeisteramt Bruehl,2,NA,NA,NA,NA,NA,4
+LEE,Landesverband Erneuerbare Enerigen NRW,2,NA,NA,NA,NA,NA,4
+IGBCE,"Industriegewerkschaft Bergbau, Chemie, Energie",2,NA,NA,NA,NA,NA,NA
+VER,Verdi,2,NA,NA,NA,NA,NA,NA
+Eon,Eon,2,NA,NA,NA,NA,NA,NA
+DGB,Deutscher Gewerkschaftsbund,2,NA,NA,NA,NA,NA,NA
+GRE,Greenpeace,2,NA,NA,NA,NA,NA,NA
+BUND,Bund fuer Umwelt und Naturschutz Deutschland,2,NA,NA,NA,NA,NA,NA
+DNR,Dachverband Deutscher Naturschutzring,2,NA,NA,NA,NA,NA,NA
+NFD,Naturfreunde Deutschland,2,NA,NA,NA,NA,NA,NA
+UNIZ,Universitaet Zuerich,2,NA,NA,NA,NA,NA,NA
+WZB,Wissenschaftszentrum Berlin für Sozialforschung,2,NA,NA,NA,NA,NA,NA
+HUB,Humboldt-Universitaet Berlin,2,NA,NA,NA,NA,NA,10
+DGS,Deutsche Gesellschaft fuer Soziologie,2,NA,NA,NA,NA,NA,NA
+BAG,Bundesagentur fuer Arbeit,2,NA,NA,NA,NA,NA,NA
+OKO,Oeko Institut,2,NA,NA,NA,NA,NA,NA
+PIK,Potsdam-Institut fuer Klimafolgenforschung,2,NA,NA,NA,NA,NA,11
+UNIP,Universitaet Potsdam,2,NA,NA,NA,NA,NA,11
+SRC,Stockholm Resilience Centre,2,NA,NA,NA,NA,NA,NA
+IPCC,Weltklimarat,2,NA,NA,NA,NA,NA,NA
+UNIK,Universitaet Kiel,2,NA,NA,NA,NA,NA,9
+FRI,Frauenhofer Institut,2,NA,NA,NA,NA,NA,15
+UNIH,Universitaet Halle an der Saale,2,NA,NA,NA,NA,NA,15
+PKM,Parlamentskreis Mittelstand,2,NA,NA,NA,NA,NA,NA
+AWE,Ausschuss fuer Wirtschaft und Energie,2,NA,NA,NA,NA,NA,NA
+PBNE,Parlamentarischer Beirat fuer nachhaltige Entwicklung,2,NA,NA,NA,NA,NA,NA

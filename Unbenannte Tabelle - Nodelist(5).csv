@@ -1,0 +1,90 @@
+id,name,type,sex,age,presentation,party,position,state
+MatP,Matthias Platzeck,1,2,4,1,2,1,11
+RonP,Ronald Pofalla,1,2,4,1,1,1,4
+BarP,Barbara Praetorius,1,1,3,4,7,1,10
+StaT,Stanislaw Tillich,1,2,4,1,1,1,14
+GerH,Gerda Hasselfeldt,1,1,4,1,1,2,2
+SteKam,Steffen Kampeter,1,2,3,2,1,2,4
+SteKap,Stefan Kapferer,1,2,3,2,3,2,13
+DieK,Dieter Kempf,1,2,4,2,7,2,2
+ClaN,Claudia Nemat,1,1,3,2,7,2,4
+KatR,Katherina Reiche,1,1,2,2,1,2,11
+GunR,Gunda Roestel,1,1,3,2,4,2,14
+EriS,Eric Schweitzer,1,2,3,2,3,2,10
+AntG,Antje Grothus,1,1,3,5,7,2,3
+HanW,Hannelore Wodtke,1,1,4,5,1,2,14
+ChrH,Christine Herntier,1,1,4,5,7,2,11
+MicK,Michael Kreuzberg,1,2,4,5,1,2,4
+ReiP,Reiner Priggen,1,2,4,5,4,2,4
+MicV,Michael Vassiliadis,1,2,3,3,2,2,4
+AndS,Andreas Scheidt,1,2,3,3,2,2,4
+SteKo,Stefan Koerzell,1,2,3,3,2,2,6
+MarK,Martin Kaiser,1,2,3,4,7,2,8
+HubW,Hubert Weiger,1,2,5,4,7,2,2
+KaiN,Kai Niebert,1,2,1,4,7,2,13
+JutA,Jutta Allmendinger,1,1,4,6,7,2,1
+ChrS,Christiane Schönefeld,1,1,4,2,7,4,
+FelM,Felix Matthes,1,2,3,6,7,2,10
+HanS,Hans Joachim Schellnhuber,1,2,4,6,7,2,11
+AnnN,Annekathrin Niebuhr,1,1,3,6,7,2,9
+RalW,Ralf Wehrsporn,1,2,2,6,7,2,15
+AndLe,Andreas Lenz,1,2,1,1,1,3,2
+AndLa,Andreas Laemmel,1,2,3,1,1,3,14
+MatM,Matthias Miersch,1,2,2,1,2,3,13
+KK,Kohlekommission,2,99,99,99,99,99,99
+SPD,SPD,2,99,99,99,2,99,99
+DB,Deutsche Bahn,2,99,99,99,99,99,99
+CDU,CDU,2,99,99,99,1,99,99
+BR,Bundesregierung,2,99,99,99,99,99,99
+BK,Bundeskanzleramt,2,99,99,99,99,99,99
+LRBr,Landesregierung Brandenburg,2,99,99,99,99,99,11
+HfTW,Hochschule fuer Technik und Wirtschaft,2,99,99,99,99,99,99
+Think,Thinktank Agora Energiewende,2,99,99,99,99,99,99
+LRSa,Landesregierung Sachsen,2,99,99,99,99,99,14
+DRK,Deutsches Rotes Kreuz,2,99,99,99,99,99,99
+BT,Bundestag,2,99,99,99,99,99,99
+BDA,Bundesvereinigung der Deutschen Arbeitgeberverbaende,2,99,99,99,99,99,99
+FDP,FDP,2,99,99,99,3,99,99
+BDEW,Bundesverband der Energie- und Wasserwirtschaft,2,99,99,99,99,99,99
+BDI,Bundesverband der deutschen Industrie,2,99,99,99,99,99,99
+TEL,Telekom,2,99,99,99,99,99,99
+McK,McKinsey,2,99,99,99,99,99,99
+VKU,Verband Kommunlare Unternehmen,2,99,99,99,99,99,99
+StaD,Stadtentwaesserung Dresden,2,99,99,99,99,99,14
+EnBW,EnBW,2,99,99,99,99,99,99
+GRU,Buendnis 90/ Die Gruenen,2,99,99,99,4,99,99
+DIHT,Deutscher Industrie- und Handelskammertag,2,99,99,99,99,99,99
+ALB,Entsorgungskonzern Alba,2,99,99,99,99,99,99
+BUB,Initative Buirer für Buir,2,99,99,99,99,99,99
+GZW,Gruene Zukunft Welzow,2,99,99,99,99,99,99
+StVW,Stadtverordnetenversammlung von Welzow,2,99,99,99,99,99,14
+NBBG,Netzwerk Bergbaugeschaedigter,2,99,99,99,99,99,99
+SprT,Spremberger Tuche,2,99,99,99,99,99,11
+BSp,Buergermeisteramt Sprember,2,99,99,99,99,99,11
+LARE,Landratsamt Rhein-Erft-Kreis,2,99,99,99,99,99,4
+BBr,Buergermeisteramt Bruehl,2,99,99,99,99,99,4
+LEE,Landesverband Erneuerbare Enerigen NRW,2,99,99,99,99,99,4
+IGBCE,"Industriegewerkschaft Bergbau, Chemie, Energie",2,99,99,99,99,99,99
+VER,Verdi,2,99,99,99,99,99,99
+Eon,Eon,2,99,99,99,99,99,99
+DGB,Deutscher Gewerkschaftsbund,2,99,99,99,99,99,99
+GRE,Greenpeace,2,99,99,99,99,99,99
+BUND,Bund fuer Umwelt und Naturschutz Deutschland,2,99,99,99,99,99,99
+DNR,Dachverband Deutscher Naturschutzring,2,99,99,99,99,99,99
+NFD,Naturfreunde Deutschland,2,99,99,99,99,99,99
+UNIZ,Universitaet Zuerich,2,99,99,99,99,99,99
+WZB,Wissenschaftszentrum Berlin für Sozialforschung,2,99,99,99,99,99,99
+HUB,Humboldt-Universitaet Berlin,2,99,99,99,99,99,10
+DGS,Deutsche Gesellschaft fuer Soziologie,2,99,99,99,99,99,99
+BAG,Bundesagentur fuer Arbeit,2,99,99,99,99,99,99
+OKO,Oeko Institut,2,99,99,99,99,99,99
+PIK,Potsdam-Institut fuer Klimafolgenforschung,2,99,99,99,99,99,11
+UNIP,Universitaet Potsdam,2,99,99,99,99,99,11
+SRC,Stockholm Resilience Centre,2,99,99,99,99,99,99
+IPCC,Weltklimarat,2,99,99,99,99,99,99
+UNIK,Universitaet Kiel,2,99,99,99,99,99,9
+FRI,Frauenhofer Institut,2,99,99,99,99,99,15
+UNIH,Universitaet Halle an der Saale,2,99,99,99,99,99,15
+PKM,Parlamentskreis Mittelstand,2,99,99,99,99,99,99
+AWE,Ausschuss fuer Wirtschaft und Energie,2,99,99,99,99,99,99
+PBNE,Parlamentarischer Beirat fuer nachhaltige Entwicklung,2,99,99,99,99,99,99

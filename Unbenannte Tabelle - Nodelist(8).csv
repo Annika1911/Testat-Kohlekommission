@@ -1,0 +1,90 @@
+id,name,type,sex,age,presentation,party,position,state,label
+MatP,Matthias Platzeck,1,2,4,1,2,1,11,MatP
+RonP,Ronald Pofalla,1,2,4,1,1,1,4,RonP
+BarP,Barbara Praetorius,1,1,3,4,99,1,10,BarP
+StaT,Stanislaw Tillich,1,2,4,1,1,1,14,StaT
+GerH,Gerda Hasselfeldt,1,1,4,1,1,2,2,GerH
+SteKam,Steffen Kampeter,1,2,3,2,1,2,4,SteKam
+SteKap,Stefan Kapferer,1,2,3,2,3,2,13,SteKap
+DieK,Dieter Kempf,1,2,4,2,99,2,2,DieK
+ClaN,Claudia Nemat,1,1,3,2,99,2,4,ClaN
+KatR,Katherina Reiche,1,1,2,2,1,2,11,KatR
+GunR,Gunda Roestel,1,1,3,2,4,2,14,GunR
+EriS,Eric Schweitzer,1,2,3,2,3,2,10,EriS
+AntG,Antje Grothus,1,1,3,5,99,2,3,AntG
+HanW,Hannelore Wodtke,1,1,4,5,1,2,14,HanW
+ChrH,Christine Herntier,1,1,4,5,99,2,11,ChrH
+MicK,Michael Kreuzberg,1,2,4,5,1,2,4,MicK
+ReiP,Reiner Priggen,1,2,4,5,4,2,4,ReiP
+MicV,Michael Vassiliadis,1,2,3,3,2,2,4,MicV
+AndS,Andreas Scheidt,1,2,3,3,2,2,4,AndS
+SteKo,Stefan Koerzell,1,2,3,3,2,2,6,SteKo
+MarK,Martin Kaiser,1,2,3,4,99,2,8,MarK
+HubW,Hubert Weiger,1,2,5,4,99,2,2,HubW
+KaiN,Kai Niebert,1,2,1,4,99,2,13,KaiN
+JutA,Jutta Allmendinger,1,1,4,6,99,2,1,JutA
+ChrS,Christiane Schönefeld,1,1,4,2,99,4,,ChrS
+FelM,Felix Matthes,1,2,3,6,99,2,10,FelM
+HanS,Hans Joachim Schellnhuber,1,2,4,6,99,2,11,HanS
+AnnN,Annekathrin Niebuhr,1,1,3,6,99,2,9,AnnN
+RalW,Ralf Wehrsporn,1,2,2,6,99,2,15,RalW
+AndLe,Andreas Lenz,1,2,1,1,1,3,2,AndLe
+AndLa,Andreas Laemmel,1,2,3,1,1,3,14,AndLa
+MatM,Matthias Miersch,1,2,2,1,2,3,13,MatM
+KK,Kohlekommission,2,99,99,99,99,99,99,KK
+SPD,SPD,2,99,99,1,2,99,99,SPD
+DB,Deutsche Bahn,2,99,99,2,99,99,99,DB
+CDU,CDU,2,99,99,1,1,99,99,CDU
+BR,Bundesregierung,2,99,99,1,99,99,99,BR
+BK,Bundeskanzleramt,2,99,99,1,99,99,99,BK
+LRBr,Landesregierung Brandenburg,2,99,99,1,99,99,11,LRBr
+HfTW,Hochschule fuer Technik und Wirtschaft,2,99,99,6,99,99,99,HfTW
+Think,Thinktank Agora Energiewende,2,99,99,6,99,99,99,Think
+LRSa,Landesregierung Sachsen,2,99,99,1,99,99,14,LRSa
+DRK,Deutsches Rotes Kreuz,2,99,99,99,99,99,99,DRK
+BT,Bundestag,2,99,99,1,99,99,99,BT
+BDA,Bundesvereinigung der Deutschen Arbeitgeberverbaende,2,99,99,2,99,99,99,BDA
+FDP,FDP,2,99,99,1,3,99,99,FDP
+BDEW,Bundesverband der Energie- und Wasserwirtschaft,2,99,99,2,99,99,99,BDEW
+BDI,Bundesverband der deutschen Industrie,2,99,99,2,99,99,99,BDI
+TEL,Telekom,2,99,99,2,99,99,99,TEL
+McK,McKinsey,2,99,99,2,99,99,99,McK
+VKU,Verband Kommunlare Unternehmen,2,99,99,2,99,99,99,VKU
+StaD,Stadtentwaesserung Dresden,2,99,99,5,99,99,14,StaD
+EnBW,EnBW,2,99,99,2,99,99,99,EnBW
+GRU,Buendnis 90/ Die Gruenen,2,99,99,1,4,99,99,GRU
+DIHT,Deutscher Industrie- und Handelskammertag,2,99,99,2,99,99,99,DIHT
+ALB,Entsorgungskonzern Alba,2,99,99,2,99,99,99,ALB
+BUB,Initative Buirer für Buir,2,99,99,5,99,99,99,BUB
+GZW,Gruene Zukunft Welzow,2,99,99,4,99,99,99,GZW
+StVW,Stadtverordnetenversammlung von Welzow,2,99,99,5,99,99,14,StVW
+NBBG,Netzwerk Bergbaugeschaedigter,2,99,99,5,99,99,99,NBBG
+SprT,Spremberger Tuche,2,99,99,2,99,99,11,SprT
+BSp,Buergermeisteramt Sprember,2,99,99,5,99,99,11,BSp
+LARE,Landratsamt Rhein-Erft-Kreis,2,99,99,5,99,99,4,LARE
+BBr,Buergermeisteramt Bruehl,2,99,99,5,99,99,4,BBr
+LEE,Landesverband Erneuerbare Enerigen NRW,2,99,99,5,99,99,4,LEE
+IGBCE,"Industriegewerkschaft Bergbau, Chemie, Energie",2,99,99,3,99,99,99,IGBCE
+VER,Verdi,2,99,99,3,99,99,99,VER
+Eon,Eon,2,99,99,2,99,99,99,Eon
+DGB,Deutscher Gewerkschaftsbund,2,99,99,3,99,99,99,DGB
+GRE,Greenpeace,2,99,99,4,99,99,99,GRE
+BUND,Bund fuer Umwelt und Naturschutz Deutschland,2,99,99,4,99,99,99,BUND
+DNR,Dachverband Deutscher Naturschutzring,2,99,99,4,99,99,99,DNR
+NFD,Naturfreunde Deutschland,2,99,99,4,99,99,99,NFD
+UNIZ,Universitaet Zuerich,2,99,99,6,99,99,99,UNIZ
+WZB,Wissenschaftszentrum Berlin für Sozialforschung,2,99,99,6,99,99,99,WZB
+HUB,Humboldt-Universitaet Berlin,2,99,99,6,99,99,10,HUB
+DGS,Deutsche Gesellschaft fuer Soziologie,2,99,99,6,99,99,99,DGS
+BAG,Bundesagentur fuer Arbeit,2,99,99,2,99,99,99,BAG
+OKO,Oeko Institut,2,99,99,4,99,99,99,OKO
+PIK,Potsdam-Institut fuer Klimafolgenforschung,2,99,99,6,99,99,11,PIK
+UNIP,Universitaet Potsdam,2,99,99,6,99,99,11,UNIP
+SRC,Stockholm Resilience Centre,2,99,99,6,99,99,99,SRC
+IPCC,Weltklimarat,2,99,99,4,99,99,99,IPCC
+UNIK,Universitaet Kiel,2,99,99,6,99,99,9,UNIK
+FRI,Frauenhofer Institut,2,99,99,6,99,99,15,FRI
+UNIH,Universitaet Halle an der Saale,2,99,99,6,99,99,15,UNIH
+PKM,Parlamentskreis Mittelstand,2,99,99,1,99,99,99,PKM
+AWE,Ausschuss fuer Wirtschaft und Energie,2,99,99,2,99,99,99,AWE
+PBNE,Parlamentarischer Beirat fuer nachhaltige Entwicklung,2,99,99,1,99,99,99,PBNE
